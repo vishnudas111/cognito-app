@@ -13,9 +13,9 @@ const outfitFont = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Meetsy",
+  title: "Cognito",
   description:
-    "Meetsy is a ai learning platform to connect with other learners in the community",
+    "Cognito is a ai learning platform to connect with other learners in the community",
 };
 
 export default function RootLayout({
